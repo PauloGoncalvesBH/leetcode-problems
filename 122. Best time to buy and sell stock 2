@@ -1,5 +1,7 @@
 # 122. Best time to buy and sell stock 2
 
+### Leetcode Topic: Array / Dynamic programming
+
 ## Question
 You are given an integer array prices where prices[i] is the price of a given stock on the ith day.
 
